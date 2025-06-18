@@ -31,6 +31,13 @@
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk)
 ![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta)
 
+
+## 🔐 Detection Engineering – Sigma Rules
+
+- 🧪 [Encoded PowerShell Command Detection Rule](https://github.com/CadeGray01/sigma/blob/main/powershell_encoded_command.yml)  
+  Detects usage of `-encodedCommand` in PowerShell, commonly used in obfuscated attacks.
+
+
 ---
 
 ## 📬 Reach Me

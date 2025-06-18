@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Cade Gray
 
-<!--
-**CadeGray01/CadeGray01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Blue Team Enthusiast | Infrastructure Defender
+🔒 Passionate about cybersecurity, detection engineering, and building tools to defend systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects I’m Working On
+
+- 🧠 **Log Parser Tool** – Python-based tool for parsing and analyzing event logs (Windows/Linux)
+- 🧪 **Atomic Testing for Blue Teams** – Custom contributions to the [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)
+- 🔍 **Sigma Rule Library** – My own ruleset mapped to MITRE ATT&CK tactics
+- ☁️ **Homelab DetectionLab** – Configuring VMs to simulate attack/defend environments (Splunk, Sysmon, Suricata)
+
+---
+
+## 📈 My Goals
+
+- ✅ Contribute to open-source security tools (DetectionLab, Sigma)
+- ✅ Build automation scripts for incident response
+- 🚧 Learn more about YARA, Elastic SIEM, and Threat Intel platforms like OpenCTI
+- 🧪 Simulate adversary behavior and detect it using custom rules
+
+---
+
+## 🧰 Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
+![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=sqlite)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk)
+![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta)
+
+---
+
+## 📬 Reach Me
+
+- 📧 Email: graycade01@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/cade-gray-0b289a303)  
+- 💡 Always open to collaboration on security automation or detection engineering!
+
+---

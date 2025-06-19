@@ -42,18 +42,11 @@
 Detects usage of `-encodedCommand` in PowerShell, a common method used to obfuscate malicious scripts.  
 📄 [View Rule](https://github.com/CadeGray01/sigma/blob/main/rules/windows/process_creation/proc_creation_win_powershell_encoded_command_obfuscated.yml)
 
-🛡️ Phishing & Malware Response Templates
-Auto-generates tailored incident response playbooks in Markdown format from YAML templates like phishing.yml and malware.yml.
+🛠️ Incident Response – IR Playbook Generator  
+📄 Phishing & Malware Response Templates in Markdown  
+Automatically generates IR checklists from YAML for common threats like phishing and malware.  
+🔗 [View Generator](https://github.com/CadeGray01/IR_Playbook_Generator)
 
-⚙️ Built to demonstrate:
-
-Python-based automation and CLI tooling
-
-Professional Markdown output with timestamps and checklist formatting
-
-Easy extensibility — just drop new YAML files into the playbooks/ directory
-
-📄 View IR_Playbook_Generator →
 ---
 
 ## 📬 Reach Me

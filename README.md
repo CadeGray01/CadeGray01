@@ -37,6 +37,10 @@
 - 🧪 [Encoded PowerShell Command Detection Rule](https://github.com/CadeGray01/sigma/blob/main/powershell_encoded_command.yml)  
   Detects usage of `-encodedCommand` in PowerShell, commonly used in obfuscated attacks.
 
+🔐 Detection Engineering – Sigma Rules  
+🧪 PowerShell EncodedCommand Obfuscation Detection Rule  
+Detects usage of `-encodedCommand` in PowerShell, a common method used to obfuscate malicious scripts.  
+📄 [View Rule](https://github.com/CadeGray01/sigma/blob/main/rules/windows/process_creation/proc_creation_win_powershell_encoded_command_obfuscated.yml)
 
 ---
 

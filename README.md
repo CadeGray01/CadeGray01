@@ -65,7 +65,7 @@ A command-line toolkit for defenders, built with Python and Typer. Includes quic
 ⚙️ Built with Typer for intuitive command structure and built-in help
 🔍 Tools for base64 decoding, IOC extraction, Sigma-to-SPL conversion, and more
 📦 Ideal for SOC analysts, DFIR responders, and threat hunters
-🔗 [View Toolkit] (
+🔗 [View Toolkit] (https://github.com/CadeGray01/blue-team-cli-toolkit)
 
 ---
 

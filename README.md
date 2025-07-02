@@ -34,18 +34,21 @@
 
 ## 🔐 Detection Engineering – Sigma Rules
 
-- 🧪 [Encoded PowerShell Command Detection Rule](https://github.com/CadeGray01/sigma/blob/main/powershell_encoded_command.yml)  
+🧪 [Encoded PowerShell Command Detection Rule](https://github.com/CadeGray01/sigma/blob/main/powershell_encoded_command.yml)  
   Detects usage of `-encodedCommand` in PowerShell, commonly used in obfuscated attacks.
+
 
 🔐 Detection Engineering – Sigma Rules  
 🧪 PowerShell EncodedCommand Obfuscation Detection Rule  
 Detects usage of `-encodedCommand` in PowerShell, a common method used to obfuscate malicious scripts.  
 📄 [View Rule](https://github.com/CadeGray01/sigma/blob/main/rules/windows/process_creation/proc_creation_win_powershell_encoded_command_obfuscated.yml)
 
+
 🛠️ Incident Response – IR Playbook Generator  
 📄 Phishing & Malware Response Templates in Markdown  
 Automatically generates IR checklists from YAML for common threats like phishing and malware.  
 🔗 [View Generator](https://github.com/CadeGray01/IR_Playbook_Generator)
+
 
 🛡️ SIEM Rule Repo + MITRE Tagging
 Custom detection rules mapped to MITRE ATT&CK tactics, featuring Sigma YAML, Splunk SPL, test logs, and validation results.
@@ -53,6 +56,16 @@ Custom detection rules mapped to MITRE ATT&CK tactics, featuring Sigma YAML, Spl
 🔍 Threat Detection – Sigma + Splunk
 📦 Includes structured rules, log samples, mapping YAMLs, and ATT&CK-aligned detections
 📄 [View Repository] (https://github.com/CadeGray01/custom-siem-rules-with-mitre-mapping)
+
+
+🧰 Blue Team CLI Toolkit
+A command-line toolkit for defenders, built with Python and Typer. Includes quick-access utilities for decoding, log analysis, IOC lookups, and Sigma rule conversions.
+
+💻 Detection Engineering – CLI Tools
+⚙️ Built with Typer for intuitive command structure and built-in help
+🔍 Tools for base64 decoding, IOC extraction, Sigma-to-SPL conversion, and more
+📦 Ideal for SOC analysts, DFIR responders, and threat hunters
+🔗 [View Toolkit] (
 
 ---
 

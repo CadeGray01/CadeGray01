@@ -47,6 +47,13 @@ Detects usage of `-encodedCommand` in PowerShell, a common method used to obfusc
 Automatically generates IR checklists from YAML for common threats like phishing and malware.  
 🔗 [View Generator](https://github.com/CadeGray01/IR_Playbook_Generator)
 
+🛡️ SIEM Rule Repo + MITRE Tagging
+Custom detection rules mapped to MITRE ATT&CK tactics, featuring Sigma YAML, Splunk SPL, test logs, and validation results.
+
+🔍 Threat Detection – Sigma + Splunk
+📦 Includes structured rules, log samples, mapping YAMLs, and ATT&CK-aligned detections
+📄 View Repository
+
 ---
 
 ## 📬 Reach Me

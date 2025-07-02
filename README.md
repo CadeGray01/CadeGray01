@@ -52,7 +52,7 @@ Custom detection rules mapped to MITRE ATT&CK tactics, featuring Sigma YAML, Spl
 
 🔍 Threat Detection – Sigma + Splunk
 📦 Includes structured rules, log samples, mapping YAMLs, and ATT&CK-aligned detections
-📄 View Repository
+📄 [View Repository] (https://github.com/CadeGray01/custom-siem-rules-with-mitre-mapping)
 
 ---
 
